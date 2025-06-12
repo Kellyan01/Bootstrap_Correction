@@ -1,0 +1,4 @@
+.row div {
+    border : solid 3px black;
+    border-collapse:collapse;
+}
